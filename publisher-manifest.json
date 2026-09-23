@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bb1f94cd5de9834781390b58",
+  "owner": "jyxwre",
+  "repo": "page-f74fa92a3947c144908b7300",
+  "title": "两元机场(ADSL)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f74fa92a3947c144908b7300",
+      "a": "两元机场(ADSL)",
+      "b": "机场官网线路发布页",
+      "entity": "两元机场(ADSL)",
+      "brand": "两元机场(ADSL)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d074390c394ef5d5ca6d1e5bdb363ffbbcf44c959ccc8133eece301606ffdf67",
+      "content": {
+        "primary_entity": "两元机场(ADSL)",
+        "keyword1": "两元机场(ADSL)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，以按设备数和月流量划分的三档订阅为核心，从 3 台设备的基础版到 20 台设备的团队版都提供明确的节点池与流媒体权益。客户端可按系统选择 Clash、Shadowrocket、Surge、v2rayN、Stash 或 sing-box，订阅导入后即可在桌面和移动端切换线路。",
+          "AI_HERO_SUBTITLE": "按设备选套餐，依客户端配订阅",
+          "AI_HERO_INTRO": "两元机场(ADSL)提供基础版、旗舰版、团队版三档海外加速订阅，分别覆盖 3 台、5 台、20 台设备同时在线。用户根据设备数量与月流量需求选定套餐，再按 Windows、macOS、iOS 或 Android 选择对应客户端导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "三档套餐按设备灵活选",
+          "AI_HIGHLIGHT_1": "基础版 ¥15 月付，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35 月付，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 ¥85 月付，20 台设备同时在线",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和客户端兼容三个角度，可以快速判断哪一档订阅更适合日常使用。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TITLE_1": "按设备数定档",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备以内，旗舰版支持 5 台，团队版可容纳 20 台设备同时在线，多设备用户可以直接跳到对应档次。",
+          "AI_FEATURE_TITLE_2": "按流量选月付",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量分别对应基础版、旗舰版和团队版，按年付价格分别是 ¥150、¥350 和 ¥850。",
+          "AI_FEATURE_TITLE_3": "按系统装客户端",
+          "AI_FEATURE_TEXT_3": "Windows 可用 Clash Verge 或 v2rayN，macOS 可用 ClashX 或 Surge，移动端可选 Shadowrocket、Stash 与 sing-box，导入订阅后切换节点即可。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，选择前先确认设备系统版本与客户端对订阅格式的要求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别为 ¥150、¥350、¥850，建议先按在线设备数量筛选，再比较月流量与流媒体权益。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选定套餐到完成订阅导入，大致分为三步，每一步都围绕设备与客户端展开。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量和每月流量需求，在基础版、旗舰版、团队版之间选择一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统是否在客户端支持范围内，并留意订阅链接的导入格式与节点协议要求。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端自带文档导入订阅地址，完成节点列表加载后即可在设备上切换线路使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与线路选择。",
+          "AI_FAQ_QUESTION_1": "两元机场(ADSL)支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "常见选择包括 Windows 端的 Clash Verge 和 v2rayN、macOS 端的 ClashX 与 Surge，以及移动端的 Shadowrocket、Stash、sing-box。具体兼容性可参照客户端自带的订阅导入说明。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时用几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如果家庭成员或小团队共用，建议直接选择设备数足够的档位，避免频繁切换登录。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版 ¥15/月、按年付 ¥150；旗舰版 ¥35/月、按年付 ¥350；团队版 ¥85/月、按年付 ¥850。年付相当于十个月的月付价格，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_4": "流量用完了会怎样？",
+          "AI_FAQ_ANSWER_4": "每档套餐都有明确的月流量上限：基础版 100GB、旗舰版 300GB、团队版 1000GB。流量使用情况可在订阅后台查看，接近上限时可以考虑升级到更高一档，避免月中停用。",
+          "AI_FAQ_QUESTION_5": "旗舰版的流媒体和游戏优化是什么？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供全节点原生流媒体解锁，并针对游戏场景做了 IPLC 专线优化，同时包含 7x24 优先工单支持。团队版则进一步提供 VIP 高带宽节点和企业定制路由。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_CLOSING_TEXT": "确认在线设备数量和月流量后选定一档订阅，再按设备系统下载对应客户端导入使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gbvsjuk.cn",
+    "host": "gbvsjuk.cn"
+  },
+  "file_hashes": {
+    "index.html": "d985e17bf81a98db0150930746b8b1fc27d4596835295f2a235bc4aa6863221d",
+    "sitemap.xml": "63295185360811ebdfccb924596a70687d085c4beadff9559a3ec0d4e099dd24",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "352cedda7fb4bfc1c8a21ca913fbfbeaae861f1c8b0b4eadf3cb393a7c8120a6",
+    "robots.txt": "a825d9144f58508f85630f14640a3c2a8fe4b5c43765d25c8525a1b6a906b4ab",
+    "d84fe95dd848f91e676757e5c5ed6938.txt": "9da6cfd08f74bc8da3d6fb45c137f00722e30365e386addd89d960d247952063"
+  },
+  "revision": "3ae2e502cd763856bde460621f3958136c8b29de8046ddacfdd02bc3c8bc6fd6"
+}

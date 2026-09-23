@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gbvsjuk.cn/sitemap.xml
